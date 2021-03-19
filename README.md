@@ -30,6 +30,7 @@ O Ignite é dividido em trilhas de conhecimento não-dependentes onde nos aprofu
 Abaixo você encontra o índice de cada desafio do Ignite:
 
 - [01 - Conceitos do React](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/01-conceitos-do-reactjs)
+- [01.1 - Componentizando a aplicação](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/02-componentizando-a-aplicacao)
 
 ## 📝 Licença
 
