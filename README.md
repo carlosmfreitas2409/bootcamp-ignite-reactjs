@@ -32,6 +32,7 @@ Abaixo você encontra o índice de cada desafio do Ignite:
 - [01 - Conceitos do React](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/01-conceitos-do-reactjs)
 - [01.1 - Componentizando a aplicação](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/01.1-componentizando-a-aplicacao)
 - [02 - Hook de carrinho de compras](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/02-hook-de-carrinho-de-compras)
+- [02.1 - Refactoring de classes e typescript](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/02.1-refactoring-classes-ts)
 
 ## 📝 Licença
 
