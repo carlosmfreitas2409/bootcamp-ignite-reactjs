@@ -34,6 +34,7 @@ Abaixo você encontra o índice de cada desafio do Ignite:
 - [02 - Hook de carrinho de compras](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/02-hook-de-carrinho-de-compras)
 - [02.1 - Refactoring de classes e typescript](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/02.1-refactoring-classes-ts)
 - [03 - Criando um projeto do zero](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/03-criando-um-projeto-do-zero)
+- [03.1 - Adicionando features ao blog](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/03.1-adicionando-features-ao-blog)
 
 ## 📝 Licença
 
