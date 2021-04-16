@@ -1,0 +1,44 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "name": "América do Norte",
+      "description": "A América do Norte corresponde à parte norte do continente americano, é formada por três países, Estados Unidos, Canadá e México, que ocupam juntos uma área de 23,6 milhões de quilômetros quadrados.",
+      "curiosity": "O segundo maior continente do mundo.",
+      "image": "https://images.unsplash.com/photo-1543321269-9d86d3680e1c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "carouselImg": "https://images.unsplash.com/photo-1479660095429-2cf4e1360472?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1351&q=80",
+      "countries": 50,
+      "languages": 60,
+      "cities100": 10
+    },
+    {
+      "id": 2,
+      "name": "Europa",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "curiosity": "O continente mais antigo.",
+      "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2VzJTIwb2YlMjBwYXJsaWFtZW50fGVufDB8fDB8&ixlib=rb-1.2.1",
+      "carouselImg": "https://www.e-dublin.com.br/wp-content/uploads/2021/01/londres-inglaterra-660x429.jpg",
+      "countries": 4,
+      "languages": 6,
+      "cities100": 27
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Londres",
+      "country": "Reino Unido",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png",
+      "image": "https://2.bp.blogspot.com/-7UtArDmS8Lk/W_6Pc98Qw-I/AAAAAAABdYE/cgssPx43qxcGwoBIk51tJys9-vrV1VLswCLcBGAs/s1600/charles-postiaux-774486-unsplash.jpg",
+      "continentId": 2
+    },
+    {
+      "id": 2,
+      "name": "Las Vegas",
+      "country": "Estados Unidos",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png",
+      "image": "https://images.unsplash.com/photo-1550109161-7262e652bf82?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80",
+      "continentId": 1
+    }
+  ]
+}
