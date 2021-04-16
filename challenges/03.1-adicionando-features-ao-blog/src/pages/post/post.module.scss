@@ -1,0 +1,139 @@
+.container {
+  max-width: 784px;
+  margin: 0 auto;
+  padding: 5rem 2rem;
+}
+
+.postBanner {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.post {
+  border-bottom: 1px solid rgba(215, 215, 215, 0.1);
+  padding-bottom: 3.75rem;
+  margin-bottom: 3rem;
+
+  h1 {
+    font-size: 3rem;
+    color: var(--white);
+  }
+
+  aside span {
+    display: block;
+    color: var(--gray-400);
+    font-size: 0.875rem;
+    font-style: italic;
+    margin-top: 1rem;
+  }
+
+  .infoContainer {
+    display: flex;
+    margin-top: 1.5rem;
+
+    div {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      & + div {
+        margin-left: 24px;
+      }
+
+      svg {
+        margin-right: 8px;
+      }
+
+      span, time {
+        color: var(--gray-400);
+        font-size: 0.875rem;
+      }
+    }
+  }
+
+  .postContent {
+    font-size: 1.125rem;
+    color: var(--gray-200);
+    line-height: 140%;
+    text-align: justify;
+
+    h2 {
+      color: var(--white);
+      font-size: 2.25rem;
+      margin-top: 4rem;
+
+      & + div {
+        margin-top: 2.25rem;
+      }
+    }
+
+    p, ul {
+      margin: 1.5rem 0;
+    }
+
+    ul {
+      padding-left: 1.5rem;
+
+      li {
+        margin: 0.5rem 0;
+      }
+    }
+  }
+}
+
+.footerContainer {
+  .postNavigation {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5rem;
+
+    div:last-child a {
+      align-items: flex-end;
+    }
+
+    div a {
+      display: flex;
+      flex-direction: column;
+
+      &:hover strong {
+        filter: brightness(0.8);
+      }
+
+      span {
+        font-size: 1.125rem;
+        color: var(--white);
+        letter-spacing: -0.5px;
+      }
+
+      strong {
+        margin-top: 0.5rem;
+        color: var(--pink-500);
+        font-weight: 600;
+        letter-spacing: -0.5px;
+
+        transition: filter 0.2s;
+      }
+    }
+  }
+
+  > a {
+    display: block;
+    padding: 18px 0;
+    margin-top: 5.5rem;
+
+    background: var(--white);
+    color: var(--gray-850);
+    font-weight: 600;
+    text-align: center;
+
+    border-radius: 0.25rem;
+    border: 0;
+
+    transition: filter 0.2s;
+
+    &:hover {
+      filter: brightness(0.8);
+    }
+  }
+}
