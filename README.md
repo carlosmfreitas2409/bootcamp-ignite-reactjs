@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desafios-1-7519C1" alt="Desafios">
+  <img src="https://img.shields.io/badge/Desafios-8-7519C1" alt="Desafios">
 
   <img src="https://img.shields.io/badge/Projetos-0-7519C1" alt="Projetos">
 
@@ -36,6 +36,7 @@ Abaixo você encontra o índice de cada desafio do Ignite:
 - [03 - Criando um projeto do zero](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/03-criando-um-projeto-do-zero)
 - [03.1 - Adicionando features ao blog](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/03.1-adicionando-features-ao-blog)
 - [04 - Interface com Chakra UI](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/04-interface-com-chakra-ui)
+- [04.1 - Upload de imagens](https://github.com/carlosmfreitas2409/bootcamp-ignite-reactjs/tree/master/challenges/04.1-upload-de-imagens)
 
 ## 📝 Licença
 
